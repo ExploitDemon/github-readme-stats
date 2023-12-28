@@ -464,8 +464,8 @@ export const themes = {
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
   myCustomTheme: {
-    title_color: "ff69b4", // hot pink
-    icon_color: "ff69b4", // hot pink
+    title_color: "5C1968", // hot pink
+    icon_color: "5C1968", // hot pink
     text_color: "ffffff", // white
     bg_color: "000000", // black
   },
