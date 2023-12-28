@@ -12,6 +12,7 @@ export const themes = {
     text_color: "434d58",
     bg_color: "fffefe",
   },
+
   transparent: {
     title_color: "006AFF",
     icon_color: "0579C3",
@@ -461,6 +462,12 @@ export const themes = {
     text_color: "ffffff",
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
+  },
+  myCustomTheme: {
+    title_color: "ff69b4", // hot pink
+    icon_color: "ff69b4", // hot pink
+    text_color: "ffffff", // white
+    bg_color: "000000", // black
   },
 };
 
